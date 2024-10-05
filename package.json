@@ -1,0 +1,15 @@
+{
+  "name": "facebook-chat-project",
+  "version": "1.0.0",
+  "description": "A project using facebook-chat-api, prompt, and fs modules",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt": "^1.0.0",
+    "facebook-chat-api": "^1.4.0"
+  }
+}
